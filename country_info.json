@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "country": "Россия",
+            "capital": "Москва"
+        },
+        {
+            "country": "Греция",
+            "capital": "Афины"
+        },
+        {
+            "country": "США",
+            "capital": "Вашингтон"
+        },
+        {
+            "country": "Украина",
+            "capital": "Киев"
+        },
+        {
+            "country": "Казахстан",
+            "capital": "Нурсултан"
+        },
+        {
+            "country": "Белорусь",
+            "capital": "Минск"
+        },
+        {
+            "country": "Китай",
+            "capital": "Пекин"
+        },
+        {
+            "country": "Великобритания",
+            "capital": "Лондон"
+        },
+        {
+            "country": "Германия",
+            "capital": "Берлин"
+        },
+        {
+            "country": "Австрия",
+            "capital": "Вена"
+        },
+        {
+            "country": "Чехия",
+            "capital": "Прага"
+        }
+    ]
+}
